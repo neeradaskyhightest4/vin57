@@ -1,2 +1,1 @@
-tin cup
-tin foil
+compress text
