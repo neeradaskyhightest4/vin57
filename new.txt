@@ -1,5 +1,2 @@
-compress text 123
-compress 1234
-compress 345
-compress latest
+qaar
 
