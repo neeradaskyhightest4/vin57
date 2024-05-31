@@ -1,2 +1,1 @@
-test setup
-test compress
+test 1
