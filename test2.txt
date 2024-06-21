@@ -1,1 +1,1 @@
-tin coin A1UDI
+test prod SPRR2
